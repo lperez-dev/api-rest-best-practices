@@ -1,4 +1,4 @@
-# REST API - Best practices of implementation using a 3 layer architecture
+# REST API Best practices implementation using a 3 layer architecture
 (Backend)
 
 The project is divided into 3 layers:
