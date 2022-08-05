@@ -2,6 +2,8 @@
 // const Project = require('../database/json/data.acces')
 //To access a Express DB:
 const Project = require('../database/postgres/data.access')
+//To access a mongo DB:
+//const Project = require('../database/mongo/data.access')
 
 const getAllProjects = () => {
     return Project.getAllProjects()
