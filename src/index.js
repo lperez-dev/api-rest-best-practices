@@ -6,7 +6,7 @@ const PORT = process.env.PORT
 
 async function connectSequelize() {
     try {
-        await sequelize.sync({ force: true })
+        await sequelize.sync({ force: false })
         app.listen(PORT, () => {
             console.log(`🚀 API listening on port ${PORT}`)
         })
