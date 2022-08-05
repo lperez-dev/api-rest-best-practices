@@ -1,5 +1,5 @@
 <p align='center'>
-<b># REST API Best implementation practices  using a 3 layer architecture (Backend)</b>
+<b># REST API Best implementation practices using a 3 layer architecture (Backend)</b>
 </p>
 
 <img src='https://res.cloudinary.com/real-estate-ads/image/upload/v1659384499/Captura_de_pantalla_2022-08-01_150737_ixu1im.png' />
