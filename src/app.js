@@ -18,7 +18,8 @@ app.use((req, res, next) => {
 app.get('/', (req, res) => {
     res.send(`
       <h1>✌ Hello world</h1>
-      <p> <h3>Please go to the following path: </h3> <h2>/api/v1/projects </h2>
+      <p> <h2>Please go to the following path: 
+      <a href="https://api-rest-best-practices.herokuapp.com/api/v1/projects">  /api/v1/projects </a></h2>
     `)
 })
 
